@@ -1,3 +1,5 @@
+//Hierachal Inheritance
+
 package demo;
 
 class One{
