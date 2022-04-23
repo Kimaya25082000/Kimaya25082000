@@ -1,0 +1,2 @@
+module Hierachal_Inheritance {
+}
