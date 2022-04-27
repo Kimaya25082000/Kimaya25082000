@@ -1,0 +1,2 @@
+module Instance_of {
+}
