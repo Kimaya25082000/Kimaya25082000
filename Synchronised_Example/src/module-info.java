@@ -1,0 +1,2 @@
+module Synchronised_Example {
+}
