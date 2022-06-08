@@ -1,10 +1,12 @@
 package demo;
+
 import java.util.*;
 import java.util.stream.*;
 
-public class Stream_Package {
-
-	public static void main(String[] args) {
+public class Stream_Package 
+{
+	public static void main(String[] args) 
+	{
 	    List<Integer> number = Arrays.asList(2,3,4,5);
 	    
 	    // demonstration of map method
@@ -42,6 +44,5 @@ public class Stream_Package {
 	       number.stream().filter(x->x%2==0).reduce(0,(ans,i)-> ans+i);
 	  
 	    System.out.println(even);
-	  }
-
+	 }
 }
